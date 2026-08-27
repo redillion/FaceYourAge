@@ -1,7 +1,3 @@
-Ah, you mean **the README.md for the model repository** (`age-progression-model`), not the application repository.
-
-If this is the **model/training repo**, I’d make it focused on the AI side and keep it concise:
-
 # Age Progression Model
 
 This repository contains the **AI model and training implementation** developed for FaceYourAge, an age progression system designed to generate simulated future appearances from facial images.
